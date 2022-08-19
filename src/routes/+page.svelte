@@ -42,7 +42,7 @@
     height: 45.4rem;
     margin: 17.8rem auto;
   }
-  .container::before {
+  /* .container::before {
     content: '';
     background-color: hsl(280, 100%, 25%);
     border-radius: 0 0.5rem 0.5rem 0;
@@ -53,7 +53,7 @@
     position: absolute;
     width: 55.8em;
     height: 45.4rem;
-  }
+  } */
 
   span {
     color: hsl(277, 64%, 61%);
